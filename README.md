@@ -6,3 +6,8 @@
 - `client-c-demo/`：客户C AI 信息搜索与辅助撰写
 
 所有数据均为虚构示例。
+
+## 线上地址
+
+- 客户B：https://khb-workflow-demo.vercel.app
+- 客户C：https://client-c-search-writing-demo.vercel.app
